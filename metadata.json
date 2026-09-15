@@ -1,0 +1,6 @@
+{
+  "name": "TechFix Pro - Assistência Técnica & Loja",
+  "description": "Sistema de gestão para assistência técnica de informática e celulares com catálogo de produtos e consulta de ordens de serviço.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
